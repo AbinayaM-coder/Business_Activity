@@ -13,11 +13,10 @@ library(deldir)
 library(r2d3)
 
 # Connection to shinyapps.io----
-rsconnect::setAccountInfo(name='abinayam-coder', token='C3F5DB5187A066E3AF32F6041F4DB34C', secret='5++ST20AC4nVKaLUujZjpiGGR9wbp7Om+ICwkCNp')
-rsconnect::deployApp('C:\\Users\\Abinaya MATHIBALA\\Desktop\\Internship_Quito_Business_Activity')
+#rsconnect::setAccountInfo(name='abinayam-coder', token='C3F5DB5187A066E3AF32F6041F4DB34C', secret='5++ST20AC4nVKaLUujZjpiGGR9wbp7Om+ICwkCNp')
+#rsconnect::deployApp('C:\\Users\\Abinaya MATHIBALA\\Desktop\\Internship_Quito_Business_Activity')
 
-# Connection to github----
-devtools::install_github(AbinayaM-coder/Internship_Quito_Business_Activity)
+#Essai de Git
 
 
 # API Key----
