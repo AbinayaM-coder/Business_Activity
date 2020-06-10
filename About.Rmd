@@ -1,0 +1,16 @@
+---
+title: "About"
+author: "Abinaya MATHIBALA"
+date: "30/05/2020"
+output: html_document
+---
+
+
+## Introduction
+
+Urban Business Activity Mapping is an internship project (UDLA and ENSEA). It aims to identify of urban centers in terms of business activity and types. 
+
+## Source
+
+For the Voronoi program, I took inspiration in this work : 
+<https://github.com/modernresearchconsulting/shiny-google-maps-voronoi> - Author : Modern Search Consulting
